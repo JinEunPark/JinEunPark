@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JinEunPark
-- 👀 I’m interested in Andorid & backend
-- 🌱 I’m currently learning Android & Algorithm
+- 👀 I’m interested in spring backkend
+- 🌱 I’m currently learning devops
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me "wlsdmsrnfl@naver.com"
 
