@@ -23,4 +23,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jineunpark&show_icons=true&locale=en" alt="jineunpark" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jineunpark&" alt="jineunpark" /></p>
+wlsdmsrnfl@naver.com - please connact me!
 
