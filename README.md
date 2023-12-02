@@ -22,6 +22,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jineunpark&show_icons=true&locale=en" alt="jineunpark" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jineunpark&" alt="jineunpark" /></p>
-wlsdmsrnfl@naver.com - please connact me!
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)wlsdmsrnfl@naver.com - please connact me!
 
