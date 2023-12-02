@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Spring boot, MySql**
 
-- 📫 How to reach me **wlsdmsrnfl@naver.com**
+- 📫 How to reach me **wlsdmsrnfl@naver.com**...
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
