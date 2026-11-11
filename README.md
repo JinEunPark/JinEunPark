@@ -31,7 +31,26 @@
 
 #### rekit · 업소용 중고 가전 거래 플랫폼
 
-🔗 **서비스 주소: [https://rekit.co.kr](https://rekit.co.kr)**
+<!-- 북마크 카드: assets/rekit-preview.png 에 사이트 첫 화면 캡처(가로 1200px 정도)를 올려 두세요 -->
+<table>
+  <tr>
+    <td width="260">
+      <a href="https://rekit.co.kr">
+        <img src="./assets/rekit-preview.png" width="260" alt="rekit 서비스 화면"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://rekit.co.kr"><b>rekit — 업소용 중고 가전 거래</b></a><br/>
+      <sub>폐업 매장에서 나온 업소용 가전을 상태 등급과 동작 보증 정보로 표준화해 거래하는 서비스</sub><br/><br/>
+      <img src="https://www.google.com/s2/favicons?domain=rekit.co.kr&sz=16" width="14" height="14"/>
+      <a href="https://rekit.co.kr"><code>rekit.co.kr</code></a>
+      <br/><br/>
+      <a href="https://rekit.co.kr">
+        <img src="https://img.shields.io/badge/LIVE-rekit.co.kr-0e75b6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit rekit.co.kr"/>
+      </a>
+    </td>
+  </tr>
+</table>
 <!-- 저장소가 공개라면 링크를 추가하세요: [GitHub](https://github.com/jineunpark/REPO) -->
 
 폐업 매장에서 나온 업소용 가전을 상태 등급과 동작 보증 정보로 표준화해 거래하는 서비스입니다.
