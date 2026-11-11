@@ -3,8 +3,8 @@
 
 <p align="center">
   <a href="https://rekit.co.kr"><img src="https://img.shields.io/badge/rekit-rekit.co.kr-0e75b6?style=flat-square" alt="rekit"/></a>
-  <!-- Velog 주소로 바꿔 주세요 -->
-  <a href="https://velog.io/@VELOG_ID"><img src="https://img.shields.io/badge/Blog-Velog-20C997?style=flat-square&logo=velog&logoColor=white" alt="velog"/></a>
+  <a href="https://jineuns-tech.gitbook.io/jineuns-tech-docs"><img src="https://img.shields.io/badge/Blog-GitBook-3884FF?style=flat-square&logo=gitbook&logoColor=white" alt="blog"/></a>
+  <a href="https://www.linkedin.com/in/jineun-park-29483a256/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="linkedin"/></a>
   <a href="mailto:wlsdmsrnfl@naver.com"><img src="https://img.shields.io/badge/Email-wlsdmsrnfl@naver.com-03C75A?style=flat-square&logo=naver&logoColor=white" alt="email"/></a>
 </p>
 
@@ -51,7 +51,7 @@
     </td>
   </tr>
 </table>
-<!-- 저장소가 공개라면 링크를 추가하세요: [GitHub](https://github.com/jineunpark/REPO) -->
+<!-- 저장소가 공개라면 링크를 추가하세요: [GitHub](https://github.com/JinEunPark/REPO) -->
 
 폐업 매장에서 나온 업소용 가전을 상태 등급과 동작 보증 정보로 표준화해 거래하는 서비스입니다.
 **API 약 100개 · 테스트 코드 560개+**
@@ -62,7 +62,7 @@
 - **트러블슈팅**: 일부 사용자만 소셜 로그인에 실패하던 문제를 OAuth state와 DNS 설정에서 찾아 해결
 
 <!-- 2단계(W3~W9) 완료 후 추가
-#### [rekit-order](https://github.com/jineunpark/rekit-order) · 주문·결제 도메인 Spring Boot 재구현
+#### [rekit-order](https://github.com/JinEunPark/rekit-order) · 주문·결제 도메인 Spring Boot 재구현
 Java 21 · Spring Boot 3 · JPA · AWS(EC2, RDS, SQS) · k6
 - 주문 API p95 ○○ms → ○○ms
 -->
