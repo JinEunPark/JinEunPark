@@ -18,14 +18,6 @@
 - **rekit 1인 개발** (2026.05 ~ 현재) · 🔗 **https://rekit.co.kr**
   - 업소용 중고 가전 거래 플랫폼. 기획부터 백엔드, 인프라, 배포, 모니터링까지 혼자 맡고 있습니다.
 
-### 🏆 Key Achievements
-
-| | 성과 | 어떻게 |
-| :---: | --- | --- |
-| **1시간** | 해외 서비스 전면 장애 복구 | 이슬람력 날짜(1449년)로 멈춘 WAS의 원인을 로그로 단계별 추적 |
-| **3배+** | 로그 적재 처리 속도 개선 | 파일 중복 읽기 4회→1회, 재귀를 반복문으로 바꿔 서버 다운과 일일 수작업 제거 |
-| **4개월** | 외부 API 지연에도 일정 준수 | 표준 스펙 기반 WireMock 서버로 먼저 개발해 연동 코드를 거의 그대로 재사용 |
-| **1,440회/일** | 알림용 DB 폴링 조회 제거 | `@Scheduled` 폴링을 커밋 후 예약 + 비동기 발송 구조로 바꿔 실서비스에 반영 |
 
 ### 🚀 Featured Project
 
@@ -94,21 +86,3 @@ Java 21 · Spring Boot 3 · JPA · AWS(EC2, RDS, SQS) · k6
 <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white"/>
 <img src="https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=sentry&logoColor=white"/>
 <img src="https://img.shields.io/badge/WireMock-1E6BB8?style=flat-square"/>
-
-### ✍️ Writing
-<!-- 블로그 글을 발행할 때마다 위에서부터 추가하세요 -->
-- 이슬람력 1449년이 WAS를 멈춘 이야기 *(작성 예정)*
-
-### 🎓 Education · Awards · Certificate
-
-- 상명대학교 컴퓨터과학과 졸업 (2024.08)
-- 창업경진대회 대상 (2023.01)
-- 데이터청년캠퍼스 최우수상 (2022.08)
-- SQLD
-
-<details>
-<summary>이전 프로젝트</summary>
-
-- [AI_WEBTOONER](https://github.com/new-Capstone/WEBTOONER_Backend) · 학부 캡스톤 백엔드
-
-</details>
