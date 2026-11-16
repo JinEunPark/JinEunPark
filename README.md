@@ -46,12 +46,7 @@
 <!-- 저장소가 공개라면 링크를 추가하세요: [GitHub](https://github.com/JinEunPark/REPO) -->
 
 폐업 매장에서 나온 업소용 가전을 상태 등급과 동작 보증 정보로 표준화해 거래하는 서비스입니다.
-**API 약 100개 · 테스트 코드 560개+**
 
-- **결제 정합성**: 토스페이먼츠 웹훅은 믿지 않고 조회 API로 재확인, `FOR UPDATE` 잠금 순서 통일로 이중 판매 경합 차단, Idempotency-Key, `SKIP LOCKED` 정리 작업
-- **관측성**: Prometheus + Grafana로 p95·5xx 비율·결제 실패율까지 실시간 확인, 멀티 워커 환경의 지표 불일치 해결
-- **배포**: git 태그로 Jenkins 빌드, 배포 후 자동 헬스체크, 이전 버전 재배포만으로 롤백
-- **트러블슈팅**: 일부 사용자만 소셜 로그인에 실패하던 문제를 OAuth state와 DNS 설정에서 찾아 해결
 
 <!-- 2단계(W3~W9) 완료 후 추가
 #### [rekit-order](https://github.com/JinEunPark/rekit-order) · 주문·결제 도메인 Spring Boot 재구현
